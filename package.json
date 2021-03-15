@@ -18,6 +18,10 @@
   },
   "homepage": "https://github.com/jmurphy0/Burger#readme",
   "dependencies": {
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "express-handlebars": "^5.2.1",
+    "moment": "^2.29.1",
     "mysql": "^2.18.1"
   }
 }
